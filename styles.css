@@ -1,0 +1,28 @@
+.menu {
+  
+display: flex;
+justify-content:space-between;
+
+  background-color: black;
+  font-size: 30px;
+  
+  font-family: Georgia;
+ 
+  color: white;
+}
+body {
+  background-color:#F7AD95;
+}
+.grid {
+
+ display:flex;
+ flex-wrap:wrap;
+  font-family: Brush Script MT;
+  
+}
+
+.grid img {
+  
+  border: 2px solid black;
+  border-radius: 50px;
+}
